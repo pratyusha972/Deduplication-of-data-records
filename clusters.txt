@@ -1,0 +1,198 @@
+Names that formed clusters
+
+Cluster0
+houghton jr,310146,M,lawrence
+houghton jr,310146,M,lawrence
+houghton jr,310146,M,lawrence
+
+Cluster1
+lind jr,310146,M,lawrence
+lind jr,310146,M,lawrence
+
+Cluster2
+lind jr,310146,M,kenneth
+lind jr,310146,M,kenneth
+
+Cluster3
+clark,90245,M,ronald
+
+Cluster4
+clark,90245,M,donald
+
+Cluster5
+bland jr,210262,F,william
+bland jr,210262,F,william
+bland jr,210262,F,william
+bland,210262,F,william
+bland jr,210262,F,william
+
+Cluster6
+shaffer jr,210262,F,william
+shaffer jr,210262,F,william
+
+Cluster7
+bland iii,210262,F,william
+
+Cluster8
+bland jr,210262,F,bill
+
+Cluster9
+rothmeyer jr,10368,F,william
+
+Cluster10
+asby jr,10368,F,william
+
+Cluster11
+smith jr,10368,F,william
+salter jr,10368,F,william
+salter jr,10368,F,william
+
+Cluster12
+michaelson jr,240440,M,john
+
+Cluster13
+michaelson jr,240440,M,john
+
+Cluster14
+clark,161244,M,john
+clark jr,161244,M,john
+clark jr,161244,M,john
+
+Cluster15
+michaelson jr,161244,M,john
+michaelson jr,161244,M,john
+michaelson jr,161244,M,john
+
+Cluster16
+mustapha jr,71037,M,harold
+
+Cluster17
+houghton jr,71037,M,harold
+
+Cluster18
+melvin jr,71037,M,harold
+melvin jr,71037,M,harold
+melvin jr,71037,M,harold
+melvin jr,71037,M,harold
+melvin jr,71037,M,harold
+
+Cluster19
+melvin jr,71037,M,harold
+melvin jr,71037,M,harold
+melvin jr,71037,M,harold
+melvin jr,71037,M,harold
+
+Cluster20
+chavas jr,71037,M,harold
+chavas jr,71037,M,harold
+chavas jr,71037,M,harold
+chavas jr,71037,M,harold
+chavas jr,71037,M,harold
+chavas jr,71037,M,harold
+
+Cluster21
+michaelson jr,71037,M,harold
+michaelson jr,71037,M,harold
+
+Cluster22
+smith jr,71037,M,harold
+fagen jr,71037,M,harold
+fagen jr,71037,M,harold
+
+Cluster23
+fagen jr,71037,M,george
+
+Cluster24
+griffin jr,71037,M,darh
+
+Cluster25
+bland jr,251053,F,william
+bland jr,251053,F,william
+shaffer jr,251053,F,william
+
+Cluster26
+duncan jr,251053,F,thomas
+carlson jr,251053,F,roy
+carlson jr,251053,F,ron
+duncan jr,251053,F,roy
+
+Cluster27
+mustapha jr,110347,M,owen
+
+Cluster28
+mustapha jr,110347,M,owan
+
+Cluster29
+funaro jones,61237,F,harriet
+
+Cluster30
+funaro j,61237,F,harriet
+funaro,61237,F,harriet
+
+Cluster31
+lind jr,200146,M,john
+
+Cluster32
+cain jr,200146,M,john
+
+Cluster33
+bland jr,80654,F,william
+
+Cluster34
+bland jr,80654,F,william
+
+Cluster35
+michaelson jr,170648,M,roy
+
+Cluster36
+michaelson jr,170648,M,roy
+
+Cluster37
+hanna,241134,M,addison john
+
+Cluster38
+hanna,241134,M,addison j
+hanna,241134,M,addison
+hanna,241134,M,addison
+hanna,241134,M,addison
+
+Cluster39
+griffin jr,70537,M,darl
+griffin jr,70537,M,clifford
+griffin jr,70537,M,clifford
+griffin jr,70537,M,clifford
+griffin jr,70537,M,clarence
+
+Cluster40
+clark,90645,M,john
+
+Cluster41
+michaelson jr,90639,M,jack
+larson jr,90639,M,harold
+larson jr,90639,M,harold
+
+Cluster42
+michaelson jr,240639,M,john
+michaelson jr,240639,M,john
+michaelson jr,240639,M,john
+
+Cluster43
+michaelson jr,240639,M,james
+michaelson jr,240639,M,james
+michaelson jr,240639,M,jack
+
+Cluster44
+michaelson jr,90447,M,robert
+
+Cluster45
+michaelson jr,90447,M,roy
+michaelson jr,90447,M,bob
+
+Cluster46
+michaelson jr,251053,M,roy
+michaelson jr,251053,M,roy
+
+Cluster47
+michaelson,251053,M,roy
+michaelson,251053,M,roy
+

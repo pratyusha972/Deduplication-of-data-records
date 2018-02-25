@@ -1,0 +1,51 @@
+houghton jr,310146,M,lawrence
+lind jr,310146,M,lawrence
+lind jr,310146,M,kenneth
+clark,90245,M,ronald
+clark,90245,M,donald
+bland jr,210262,F,william
+shaffer jr,210262,F,william
+bland iii,210262,F,william
+bland jr,210262,F,bill
+rothmeyer jr,10368,F,william
+asby jr,10368,F,william
+smith jr,10368,F,william
+michaelson jr,240440,M,john
+michaelson jr,240440,M,john
+clark,161244,M,john
+michaelson jr,161244,M,john
+mustapha jr,71037,M,harold
+houghton jr,71037,M,harold
+melvin jr,71037,M,harold
+melvin jr,71037,M,harold
+chavas jr,71037,M,harold
+michaelson jr,71037,M,harold
+smith jr,71037,M,harold
+fagen jr,71037,M,george
+griffin jr,71037,M,darh
+bland jr,251053,F,william
+duncan jr,251053,F,thomas
+mustapha jr,110347,M,owen
+mustapha jr,110347,M,owan
+funaro jones,61237,F,harriet
+funaro j,61237,F,harriet
+lind jr,200146,M,john
+cain jr,200146,M,john
+bland jr,80654,F,william
+bland jr,80654,F,william
+michaelson jr,170648,M,roy
+michaelson jr,170648,M,roy
+galetich jr,151032,M,addison
+griffin jr,100737,M,darl
+hanna,241134,M,addison john
+hanna,241134,M,addison j
+griffin jr,70537,M,darl
+clark,90645,M,john
+michaelson jr,90639,M,jack
+michaelson jr,240639,M,john
+michaelson jr,240639,M,james
+michaelson jr,90447,M,robert
+michaelson jr,90447,M,roy
+michaelson jr,10551,M,roy
+michaelson jr,251053,M,roy
+michaelson,251053,M,roy
